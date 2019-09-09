@@ -1,3 +1,24 @@
 body{
     
 }
+.container{
+    padding: 0 20px;
+    background:url('../imgs/Fondo1.png');
+    background-size:100%;
+    background-repeat: no-repeat;
+}
+header img{
+    display: inline-flex;
+}
+.navbar{
+    background-image: url('../imgs/Barra.png');
+     
+}
+.navbar .navbar-nav{
+    margin: 15px 0;
+}
+
+img{
+    width: 400px;
+    height: 200px;
+}
