@@ -7,24 +7,23 @@ body{
     padding:  0 19px;
     
 }
-.fondo-header{
-    background:radial-gradient(#fff,#e3b375);
-    position:relative;
-    width:190px;
-    z-index: 6;
-}
- .image_header img{
-    box-sizing: border-box;
-    width: 400px;
-    height: 100px; 
-}
 .image_header{
     display: flex;
 }
-
+.image_header img{
+    box-sizing: border-box;
+    width: 400px; 
+    height: 100px;
+}
 .navbar-brand img{
     width: 100px;
     height:145px;
     margin-top:  -90px;
 }
-
+.fondo-header{
+    background: radial-gradient(#fff,#e3b375);
+    position: absolute;
+    width:;
+    height:;
+    
+}
