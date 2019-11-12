@@ -1,6 +1,5 @@
 body{
     background:radial-gradient(#fff,#e3b375);
-    background-repeat: no-repeat;
     background-size: cover;
 }
 .container{
@@ -10,15 +9,15 @@ body{
 .image_header{
     display: flex;
 }
-.image_header img{
+/* .image_header img{
     box-sizing: border-box;
     width: 400px; 
     height: 100px;
-}
+} */
 .navbar-brand img{
     width: 100px;
     height:145px;
-    margin-top:  -90px;
+    margin-top: -90px;
 }
 .fondo-header{
     background: radial-gradient(#fff,#e3b375);
