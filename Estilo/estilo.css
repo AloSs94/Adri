@@ -1,6 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+html{
+    height: 100%;
+}
 body{
-    background:radial-gradient(#fff,#e3b375);
-    background-size: cover;
+    background:radial-gradient(#fff,#e3b375) no-repeat;
+   
+    
 }
 .container{
     padding:  0 19px;
