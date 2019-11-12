@@ -18,11 +18,11 @@ body{
 .image_header{
     display: flex;
 }
-/* .image_header img{
-    box-sizing: border-box;
-    width: 400px; 
-    height: 100px;
-} */
+ .image_header img{
+    
+    width:1000px; 
+    height:200px;
+ }
 .navbar-brand img{
     width: 115px;
     height:145px;
