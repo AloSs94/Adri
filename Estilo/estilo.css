@@ -24,9 +24,23 @@ body{
     height:200px;
  }
 .navbar-brand img{
-    width: 115px;
-    height:145px;
-    margin-top: -90px;
+    width:115px;
+    height:150px;
+    margin-top:-85px;
+    margin-left:8px;
+}
+nav{
+    background-image: url(../imgs/BannerVerde.png);
+    background-repeat: no-repeat;
+    width:1000px;
+    height:px;
+    margin-top:-15px;
+    position: absolute;
+}
+.navbar-nav{
+    list-style:none;
+    display:block;
+    float: left;
 }
 .fondo-header{
     background: radial-gradient(#fff,#e3b375);
