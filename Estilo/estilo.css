@@ -37,11 +37,24 @@ nav{
     margin-top:-15px;
     position: absolute;
 }
-.navbar-nav{
-    list-style:none;
-    display:block;
-    float: left;
+.navbar-nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    list-style: none;
+
+    
 }
+ul li a{
+    
+   color: #fff;
+    display:block;
+    float:right;
+    padding: 20px 20px;
+    margin-top: 0;
+    transform: translate(50%,-100%);
+    
+} 
 .fondo-header{
     background: radial-gradient(#fff,#e3b375);
     position: absolute;
